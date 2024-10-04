@@ -1,0 +1,7 @@
+The Files are as follows: 
+regular.txt - Denotes the file with regular customers
+preferred.txt - Denotes the files with the gold and platinum customers
+purchases.txt - Denotes the purchases made by each customer
+
+customer.dat - Customers who are still regular customers (i.e under $50)
+preferred.dat - Customers who are gold and platinum 

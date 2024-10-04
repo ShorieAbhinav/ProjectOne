@@ -1,0 +1,17 @@
+000 M soda .35 5
+001 S tea .25 4
+002 M tea .14 3
+003 S soda .10 2
+004 M punch .15 5
+005 M soda .12 4
+010 L tea .34 10
+011 M tea .15 3
+012 L soda .40 2
+013 S soda .50 4
+001 M tea .50 3
+002 L punch .50 2
+011 S punch .14 5
+010 M tea .20 3
+005 S soda .15 1
+013 M soda .10 3
+000 L tea .15 2

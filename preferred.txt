@@ -1,0 +1,6 @@
+000 Fred Hampton 100 .1
+001 Shelly Rample 50 .05
+002 Hugh Jackman 150 .15
+003 Penny Wise 205 1
+004 Just Desert 60 .05
+005 Apple Goog 170 .15
